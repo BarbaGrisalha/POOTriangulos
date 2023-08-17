@@ -7,6 +7,7 @@ public class Triangulos {
         Scanner sc = new Scanner(System.in);
         DefinicaoTriangulo defTriangulo = new DefinicaoTriangulo();
 
+
         System.out.println("tipos de Triangulo:");
         System.out.println("Insira os Lados do Triângulo , assim verificaremos o perímetro e qual o tipo do triângulo:");
         System.out.println("Lado 01");
