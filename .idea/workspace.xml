@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="629ffda6-be62-4e88-8f3d-d2cfa864e3c6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/calculos/Tri_equilateros.java" afterDir="false" />
+    <list default="true" id="629ffda6-be62-4e88-8f3d-d2cfa864e3c6" name="Changes" comment="Base para definição dos triângulos.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Triangulos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Triangulos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculos/DefinicaoTriangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculos/DefinicaoTriangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -59,6 +60,21 @@
       <option name="presentableId" value="Default" />
       <updated>1692280002011</updated>
     </task>
+    <task id="LOCAL-00001" summary="Base para definição dos triângulos.">
+      <created>1692282792053</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692282792053</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Base para definição dos triângulos.">
+      <created>1692282961444</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692282961447</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -71,5 +87,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Interacao com o utilizador para busca dos lados do cliente." />
+    <MESSAGE value="Base para definição dos triângulos." />
+    <option name="LAST_COMMIT_MESSAGE" value="Base para definição dos triângulos." />
   </component>
 </project>
